@@ -16,6 +16,7 @@ public class NewSample {
                 System.out.print("* ");
             }
             System.out.println();
+            
         }
     }
 }
